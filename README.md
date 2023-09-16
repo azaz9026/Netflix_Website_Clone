@@ -6,7 +6,8 @@ Copy code
 
 This is a Netflix clone built using HTML, CSS, and Tailwind CSS. It mimics the design and layout of the Netflix website.
 
-![Netflix Clone Screenshot]()
+![Netflix Clone Screenshot](![Uploading image.png…]()
+)
 
 ## Features
 
